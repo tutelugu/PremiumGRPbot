@@ -1,8 +1,10 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʟᴏ {}
+    START_TXT = """<b>ʜᴇʟᴏ {}  𝚆𝙴𝙻𝙻𝙲𝙾𝙼𝙴❣️
     
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ created by MRCNU
+
+𝐈 𝐂𝐚𝐧 𝐒𝐞𝐧𝐝 𝐌𝐨𝐯𝐢𝐞 𝐅𝐢𝐥𝐞𝐬 𝐉𝐮𝐬𝐭 𝐓𝐲𝐩𝐞 𝐓𝐡𝐞 𝐂𝐨𝐫𝐫𝐞𝐜𝐭 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐁𝐞𝐥𝐨𝐰 | Gʀᴏᴜᴩ 
 
 ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/CnuTeam">MRCNU</a></b>😎</b>"""
 
