@@ -1,12 +1,12 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʟᴏ {}  𝚆𝙴𝙻𝙻𝙲𝙾𝙼𝙴❣️
+    START_TXT = """<b>ʜᴇʟᴏ {}  𝚆𝙴𝙻𝙻𝙲𝙾𝙼𝙴❤️✨
     
-ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
-ɪ ᴀᴍ created by MRCNU
+ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟʟ ᴍᴜᴠɪᴇ🍿 sᴇᴀʀᴄʜ ʙᴏᴛ💌
+ɪ ʜᴀᴠᴇ ʟᴏᴛ ᴏꜰ ᴍᴏᴠɪᴇ ꜰɪʟᴇs ʙᴜᴛ ❌ɴᴏᴛ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛs sᴏ ᴅᴏɴᴛ sᴇᴀʀᴄʜ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛs 😉
 
-𝐈 𝐂𝐚𝐧 𝐒𝐞𝐧𝐝 𝐌𝐨𝐯𝐢𝐞 𝐅𝐢𝐥𝐞𝐬 𝐉𝐮𝐬𝐭 𝐓𝐲𝐩𝐞 𝐓𝐡𝐞 𝐂𝐨𝐫𝐫𝐞𝐜𝐭 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐁𝐞𝐥𝐨𝐰 | Gʀᴏᴜᴩ 
+ɪ ᴄᴀɴ sᴇɴᴅ ᴍᴏᴠɪᴇ ꜰɪʟᴇs ᴊᴜsᴛ ᴛʏᴘᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ sᴘᴇʟʟɪɴɢ ʙᴇʟᴏᴡ / ɢʀᴏᴜᴘ
 
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/CnuNetwork">MRCNU</a></b>😎</b>"""
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/CnuMoviesBot">MRCNU</a></b>😎</b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -14,7 +14,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
- 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/CnuTeam'>MRCNU</a>
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/CnuMoviesBot'>MRCNU</a>
  📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
  📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -134,11 +134,9 @@ Nᴀᴍᴇ - {}"""
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+ᴇxᴀᴍᴘʟᴇ : RRR or RRR 2022 
 
-ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
-
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
